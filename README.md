@@ -168,85 +168,85 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 25.3 - Projeto - Aggregations
 
 ##### Bloco 26: [Introdução ao desenvolvimento Web com NodeJS](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-26-introducao-ao-desenvolvimento-web-com-nodejs)
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introdução
-- [ ] 26.2 - NodeJS - Fluxo Assíncrono
-- [ ] 26.3 - Testes com NodeJS
-- [ ] 26.4 - Express: HTTP com Node.js
-- [ ] 26.5 - Praticando Express
-- [ ] 26.6 - Projeto - Talker manager
+- [x] 26.1 - Intro - NodeJS
+- [x] 26.1 - NodeJS - Introdução
+- [x] 26.2 - NodeJS - Fluxo Assíncrono
+- [x] 26.3 - Testes com NodeJS
+- [x] 26.4 - Express: HTTP com Node.js
+- [x] 26.5 - Praticando Express
+- [x] 26.6 - Projeto - Talker manager
 
 ##### Bloco 27: [NodeJS: Camada de Serviço e Arquitetura Rest e Restful](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-27-nodejs-camada-de-servico-e-arquitetura-rest-e-restful)
-- [ ] 27.1 - Introdução - Arquitetura de Software
-- [ ] 27.1 - Arquitetura de Software - Camada de Model
-- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 27.3 - Arquitetura Web - Rest e Restful
-- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 27.5 - Projeto - Store Manager
+- [x] 27.1 - Introdução - Arquitetura de Software
+- [x] 27.1 - Arquitetura de Software - Camada de Model
+- [x] 27.2 - Arquitetura de Software - Camada de Controller e Service
+- [x] 27.3 - Arquitetura Web - Rest e Restful
+- [x] 27.4 - Arquitetura de Software - Testando as Camadas
+- [x] 27.5 - Projeto - Store Manager
 
 ##### Bloco 28: [Autenticação e Upload de Arquivos](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-28-autenticacao-e-upload-de-arquivos)
-- [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
-- [ ] 28.2 - NodeJS - Upload de arquivos com Multer
-- [ ] 28.3 - NodeJS - Testando APIs com Testes de Integração
-- [ ] 28.4 - Projeto - Cookmaster
+- [x] 28.1 - NodeJS - JWT - (JSON Web Token)
+- [x] 28.2 - NodeJS - Upload de arquivos com Multer
+- [x] 28.3 - NodeJS - Testando APIs com Testes de Integração
+- [x] 28.4 - Projeto - Cookmaster
 
 ##### Bloco 29: [Deployment](https://github.com/paulohbsimoes/trybe-exercises/tree/master/03-back-end/bloco-29-deployment)
-- [ ] 29.1 - Introdução - Deploy
-- [ ] 29.1 - Infraestrutura - Deploy com Heroku
-- [ ] 29.2 - Deploy - Gerenciadores de Processos
-- [ ] 29.3 - Projeto - Stranger Things
+- [x] 29.1 - Introdução - Deploy
+- [x] 29.1 - Infraestrutura - Deploy com Heroku
+- [x] 29.2 - Deploy - Gerenciadores de Processos
+- [x] 29.3 - Projeto - Stranger Things
 
 ##### Bloco 30: Arquitetura: SOLID e ORM
-- [ ] 30.1 - Arquitetura - Princípios SOLID
-- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Boas práticas na escrita de testes
-- [ ] 30.5 - Projeto - API de Blogs
+- [x] 30.1 - Arquitetura - Princípios SOLID
+- [x] 30.2 - ORM - Interface da aplicação com o banco de dados
+- [x] 30.3 - ORM - Associations
+- [x] 30.4 - Boas práticas na escrita de testes
+- [x] 30.5 - Projeto - API de Blogs
 
 ##### Bloco 31: Sockets
-- [ ] 31.1 - Sockets - TCP/UDP & NET
-- [ ] 31.2 - Sockets - Socket.io
-- [ ] 31.3 - Projeto - Webchat
+- [x] 31.1 - Sockets - TCP/UDP & NET
+- [x] 31.2 - Sockets - Socket.io
+- [x] 31.3 - Projeto - Webchat
 
 ##### Bloco 32: Projeto Trybeer II
-- [ ] 32.1 - Projeto - Trybeer v2
+- [x] 32.1 - Projeto - Trybeer v2
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Arquitetura de Computadores e Redes
-- [ ] 33.1 - Introdução - Ciência da Computação
-- [ ] 33.2 - Arquitetura de Computadores
-- [ ] 33.3 - Arquitetura de redes
-- [ ] 33.4 - Redes de computadores, ferramentas e segurança
-- [ ] 33.5 - Projeto - Explorando os protocolos
+- [x] 33.1 - Introdução - Ciência da Computação
+- [x] 33.2 - Arquitetura de Computadores
+- [x] 33.3 - Arquitetura de redes
+- [x] 33.4 - Redes de computadores, ferramentas e segurança
+- [x] 33.5 - Projeto - Explorando os protocolos
 
 ##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
-- [ ] 34.1 - Aprendendo Python
-- [ ] 34.2 - Entrada e Saída de dados
-- [ ] 34.3 - Raspagem de Dados
-- [ ] 34.4 - Testes
-- [ ] 34.5 - Projeto - Tech news
+- [x] 34.1 - Aprendendo Python
+- [x] 34.2 - Entrada e Saída de dados
+- [x] 34.3 - Raspagem de Dados
+- [x] 34.4 - Testes
+- [x] 34.5 - Projeto - Tech news
 
 ##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] 35.1 - Introdução à programação orientada a objetos
-- [ ] 35.2 - Herança, Composição e Interfaces
-- [ ] 35.3 - Padrões de projeto
-- [ ] 35.4 - Projeto - Relatórios de Estoque
+- [x] 35.1 - Introdução à programação orientada a objetos
+- [x] 35.2 - Herança, Composição e Interfaces
+- [x] 35.3 - Padrões de projeto
+- [x] 35.4 - Projeto - Relatórios de Estoque
 
 ##### Bloco 36: Algoritmos e Estrutura de Dados
-- [ ] 36.1 - Complexidade de Algoritmos
-- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 36.3 - Algoritmos de ordenação e busca
-- [ ] 36.4 - Projeto - Algoritmos
+- [x] 36.1 - Complexidade de Algoritmos
+- [x] 36.2 - Recursividade e Estratégias para solução de problemas
+- [x] 36.3 - Algoritmos de ordenação e busca
+- [x] 36.4 - Projeto - Algoritmos
 
 ##### Bloco 37: Estrutura de Dados: Hash e Set
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap e Dict
-- [ ] 37.3 - Set
-- [ ] 37.4 - Projeto - Restaurant Orders
+- [x] 37.1 - Arrays
+- [x] 37.2 - Hashmap e Dict
+- [x] 37.3 - Set
+- [x] 37.4 - Projeto - Restaurant Orders
 
 ##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 38.1 - Nó e Listas Encadeadas
-- [ ] 38.2 - Deque
-- [ ] 38.3 - Pilhas
-- [ ] 38.4 - Projeto - TING - Trybe Is Not Google
+- [x] 38.1 - Nó e Listas Encadeadas
+- [x] 38.2 - Deque
+- [x] 38.3 - Pilhas
+- [x] 38.4 - Projeto - TING - Trybe Is Not Google
